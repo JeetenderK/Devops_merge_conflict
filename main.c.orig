@@ -5,15 +5,15 @@ Initial Function()
   //Sample Code
 }
 
-
+<<<<<<< HEAD
 Feature2()
 {
   //Sample Code for Feature2
-}
-
+=======
 Initial Security()
 {
   //Sample Code for Security Patch
+>>>>>>> main
 }
 
 
